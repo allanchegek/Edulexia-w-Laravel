@@ -2,9 +2,13 @@
 
 Framework Built version of Edulexia
 
-This version of Edulexia is built upon the Laravel framework, with Blade integrated for administrator functions, user registration and logins.
+ABOUT: 
 
-Deependencies installed include ChartJS for data analytics and Vite for bundling CSS and JS files into core code.
+This version of Edulexia is built upon the Laravel framework, with Blade integrated for administrator functions, user registration and logins.
+DEPENDENCIES:
+
+Dependencies installed include ChartJS for data analytics and Vite for bundling CSS and JS files into core code.
+PROJECT DESCRIPTION:
 
 The application is designed to help dyslexic learners grasp new skills in identifying objects from pictures, forming complete sentences from words and performing simple arithmetic operations.
 
